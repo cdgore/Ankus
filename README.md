@@ -1,4 +1,4 @@
 Ankus
 =====
 
-MapReduce jobs to supplement your Mahout workflow 
+Hadoop MapReduce jobs to supplement your Mahout workflow 
