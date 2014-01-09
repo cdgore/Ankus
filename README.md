@@ -1,9 +1,10 @@
 Ankus
 =====
+[![Build Status](https://travis-ci.org/cdgore/Ankus.png?branch=master)](https://travis-ci.org/cdgore/Ankus)
 
 Hadoop MapReduce jobs to supplement your Mahout workflow, automating steps for Mahout SSVD and/or PCA pipelines
 
-an·kus – noun: a tool used by elephant riders (mahouts) to control their elephant
+**an·kus** – _noun_: a tool used by elephant riders (mahouts) to control their elephant
 
 Currently includes Hadoop jobs for:
 
